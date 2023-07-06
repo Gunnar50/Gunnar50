@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Cyber Security, Coding**
 
-- 📫 How to reach me **[Email](mailto:gustavo.passarella@hotmail.com "gustavo.passarella@hotmail.com") or [LinkedIn] (https://www.linkedin.com/in/gustavo-passarella/ "gustavo-passarella")**
+- 📫 How to reach me **[Email](mailto:gustavo.passarella@hotmail.com "gustavo.passarella@hotmail.com") or [LinkedIn](https://www.linkedin.com/in/gustavo-passarella/ "gustavo-passarella")**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
