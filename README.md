@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Development (Django)**
 
-- 💬 Ask me about **Python, Cyber Security, Coding**
+- 💬 Ask me about **Python, Pygame, Cyber Security, Coding, Gaming**
 
 - 📫 How to reach me **[Email](mailto:gustavo.passarella@hotmail.com "gustavo.passarella@hotmail.com") or [LinkedIn](https://www.linkedin.com/in/gustavo-passarella/ "gustavo-passarella")**
 
