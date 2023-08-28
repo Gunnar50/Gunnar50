@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo!</h1>
 <h3 align="center">Cyber Security graduate</h3>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 💬 Ask me about **Python, Pygame, Cyber Security, Coding, Gaming**
 
