@@ -11,8 +11,9 @@ I'm a **Full Stack JavaScript Developer** specialised in **React, Redux, TypeScr
 
 - Contact: [Email](mailto:gustavo.passarella@hotmail.com "gustavo.passarella@hotmail.com")
 - Connect: [LinkedIn](https://www.linkedin.com/in/gustavo-passarella/ "gustavo-passarella")
-- Subscribe: [YouTube](https://www.youtube.com/c/techandgaming0)
 - Website: [Portfolio](https://gustavopassarella.co.uk)
+- Subscribe: [YouTube](https://www.youtube.com/c/techandgaming0)
+
 
 ## Tech Stack:
 
