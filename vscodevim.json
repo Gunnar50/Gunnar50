@@ -1,0 +1,51 @@
+// keybindinds.json
+{
+  "key": "ctrl+p",
+  "command": "workbench.action.quickOpen"
+},
+{
+  "key": "alt+w",
+  "command": "workbench.action.moveEditorToRightGroup"
+},
+{
+  "key": "alt+q",
+  "command": "workbench.action.moveEditorToLeftGroup"
+}
+
+// settings.json (user settings, not profile settings)
+// NAVIGATION
+// Switch between buffers/windows
+"vim.normalModeKeyBindingsNonRecursive": [
+  { "before": ["<S-h>"], "commands": [":bprevious"]}, 
+  { "before": ["<S-l>"], "commands": [":bnext"]},
+  
+  // FILE TREE
+  {
+    "before": ["leader", "n","e"],
+    "commands":["workbench.explorer.fileView.focus"],
+  },
+  {
+    "before": ["<leader>", "q"],
+    "commands": ["editor.action.quickFix"]
+  },
+  {
+    "before": ["<leader>", "f"],
+    "commands": ["editor.action.showDefinitionPreviewHover"]
+  },
+  {
+    "before": ["<C-l>"],
+    "commands": ["workbench.action.moveEditorToRightGroup"]
+  },		
+  {
+    "before": ["<C-h>"],
+    "commands": ["workbench.action.moveEditorToLeftGroup"]
+  },		
+  {
+    "before": ["<C-k>"],
+    "commands": ["workbench.action.focusRightGroup"]
+  },		
+  {
+    "before": ["<C-j>"],
+    "commands": ["workbench.action.focusLeftGroup"]
+  },		
+] 
